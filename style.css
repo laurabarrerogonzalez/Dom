@@ -1,0 +1,62 @@
+/* DOM5 */
+/* .underline{
+    text-decoration: underline;
+} */
+
+
+/* DOM6 */
+/* .hidden{
+    display: none;
+} */
+
+
+/* DOM7
+#container{
+    width: 400px;
+    height: 400px;
+    border: solid black 1px;
+} */
+
+
+/* DOM8 */
+/* #container{
+    width: 400px;
+    height: 400px;
+    border: solid black 1px;
+} */
+
+
+
+/* DOM9 */
+/* #container{
+    width: 400px;
+    height: 400px;
+    border: solid black 2px;
+}
+
+.box{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    margin: 10px;
+} */
+
+
+
+/* DOM10 */
+#container {
+    width: 400px;
+    height: 400px;
+    border: solid black 1px;
+  }
+  
+  .box {
+    width: 40px;
+    height: 40px;
+    background-color: aqua;
+    margin: 10px;
+  }
+  
+  #add-box-btn, #remove-box-btn {
+    margin-top: 10px;
+  }
