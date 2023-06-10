@@ -89,4 +89,28 @@
 
   /* DOM12 Haya un formulario con tres campos, una caja y un botón. El botón deberá crear el contenido de los tres campos dentro de la caja, a la vez */
 
-  
+  /* #box {
+    width: 300px;
+    height: 300px;
+    border: solid black 1px;
+  } */
+
+
+
+  /* DOM13 Haya un formulario con tres campos, una caja y un botón. El botón deberá crear el contenido de los tres campos dentro de 
+  la caja, a la vez y rodeados por un borde o marco */
+
+/* #box {
+  width: 300px;
+  height: 300px;
+  border: solid black 1px;
+}
+
+
+
+/* DOM14 Ídem 13. El formulario deberá poder ser utilizado varias veces, creando cada vez el contenido enmarcado correspondiente */
+/* #box {
+  width: 300px;
+  height: 300px;
+  border: solid black 1px;
+} */

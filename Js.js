@@ -155,4 +155,58 @@
 
 // DOM12 Haya un formulario con tres campos, una caja y un botón. El botón deberá crear el contenido de los tres campos dentro de la caja, a la vez
 
+// function addThreeTexts() {
+//     let name = document.getElementById("name").value;
+//     let age = document.getElementById("number").value;
+//     let hobby = document.getElementById("hobby").value;
 
+//     let box = document.getElementById("box");
+
+//     let nuevoCampo = document.createElement('p');
+
+//     nuevoCampo.innerHTML = 'Name: ' + name + ', Age: ' + age + ', Hobby: ' + hobby;
+
+//     box.appendChild(nuevoCampo);
+
+// }
+
+
+
+// DOM13 Haya un formulario con tres campos, una caja y un botón. El botón deberá crear el contenido de los tres campos dentro de 
+// la caja, a la vez y rodeados por un borde o marco
+
+// function addTextWithDecoration() {
+//     let name = document.getElementById("name").value;
+//     let age = document.getElementById("age").value;
+//     let hobby = document.getElementById("hobby").value;
+
+//     let box = document.getElementById("box");
+
+//     let caja = document.createElement("div");
+//     caja.style.width = "100px";
+//     caja.style.height ="100px";
+//     caja.style.border = "solid pink 2px"
+
+//     caja.innerHTML = 'Name: ' + name + ', Age: ' + age + ', Hobby: ' + hobby;
+
+//     box.appendChild(caja);
+// }
+
+
+// DOM14 Ídem 13. El formulario deberá poder ser utilizado varias veces, creando cada vez el contenido enmarcado correspondiente
+// function addTextWithDecoration() {
+//     let name = document.getElementById("name").value;
+//     let age = document.getElementById("age").value;
+//     let hobby = document.getElementById("hobby").value;
+    
+//     let box = document.getElementById("box");
+    
+//     let caja = document.createElement("div");
+//     caja.style.width = "100px";
+//     caja.style.height ="100px";
+//     caja.style.border = "solid pink 2px"
+    
+//     caja.innerHTML = 'Name: ' + name + ', Age: ' + age + ', Hobby: ' + hobby;
+    
+//     box.appendChild(caja);
+//     }
